@@ -1,0 +1,315 @@
+[
+    {
+        "model": "market.Vehicle",
+        "pk": "fde3d945-a2e0-4f9f-a8fd-91a0f4465fba",
+        "fields": {
+            "manufacturer": "563ea877-bd22-48eb-b4ac-5e198dcc69ae",
+            "model": "C3 Picasso",
+            "gear_uuid": ["c9aa422f-f39d-43a1-bccd-e3787a25189a", "47b8245e-dbd0-4ccd-8d65-c3299613b7b5"]
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "85a52757-7c0e-412a-a5ee-c44a6d274b92",
+        "fields": {
+            "manufacturer": "83290231-42e4-4af0-804d-b7a5a8673d00",
+            "model": "SPACEFOX",
+            "gear_uuid": ["4fed77be-5c50-46ce-8bea-acfe97ae63e9"]
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "0a7d22af-ca6d-4347-91ee-2402ec2d2d7a",
+        "fields": {
+            "manufacturer": "026aafc8-74d8-4445-97f3-6cb63dc26638",
+            "model": "Bravo",
+            "gear_uuid": []
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "83342045-bef0-4ca1-991f-9082d8c5efff",
+        "fields": {
+            "manufacturer": "026aafc8-74d8-4445-97f3-6cb63dc26638",
+            "model": "Grand Siena",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "601993b5-d6a0-4e99-8043-8514fae26aa1",
+        "fields": {
+            "manufacturer": "026aafc8-74d8-4445-97f3-6cb63dc26638",
+            "model": "Novo Palio",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "0d20ccd6-5181-443b-bf8b-ad75b738ed26",
+        "fields": {
+            "manufacturer": "83290231-42e4-4af0-804d-b7a5a8673d00",
+            "model": "Focus New",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "20bd5d11-4ba9-43f4-9fff-32787b56529a",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Monza",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "c28ee739-e307-4c12-b8a9-21af1e0c16b1",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Tracker",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "555c89fa-8884-4d75-a604-4e62410cf76d",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Corsa",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "0e8dcc49-f674-4132-aa3a-b48d6661179a",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Cruze",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "0b7ee5c0-f3c6-4882-bd4d-ab639f2c3864",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Montana",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "7344d3fc-76d3-431c-8a6b-2a1f263c1337",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Onix",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "33de519d-654b-456b-bab1-6a2f44edc56d",
+        "fields": {
+            "manufacturer": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+            "model": "Spin",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "36a1bf21-841f-4b7b-b0a1-3b965b305db3",
+        "fields": {
+            "manufacturer": "bbc17125-5015-4c63-9b32-3af6c9c1a868",
+            "model": "Azera",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "73229c3d-84ee-4bdc-b27a-a4f250859809",
+        "fields": {
+            "manufacturer": "bbc17125-5015-4c63-9b32-3af6c9c1a868",
+            "model": "IX35",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "024e03a3-bbf5-47ab-be19-bec4a375f8e4",
+        "fields": {
+            "manufacturer": "bbc17125-5015-4c63-9b32-3af6c9c1a868",
+            "model": "Santa Fé",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "6a6d3337-22a9-4850-81c7-ac367ce3dca5",
+        "fields": {
+            "manufacturer": "62011b74-4e5a-41bd-8148-0df2d82d4739",
+            "model": "Picanto",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "a09360e4-6b8b-4d9a-9846-3df8ba48caeb",
+        "fields": {
+            "manufacturer": "62011b74-4e5a-41bd-8148-0df2d82d4739",
+            "model": "Soul",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "6db36ce0-ffb8-48b1-ba00-9329a826a7b9",
+        "fields": {
+            "manufacturer": "3c26cfe4-903a-4578-b3c0-f158d1fdf030",
+            "model": "Classe A 160 - 190",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "fd0401bf-3427-4803-9b33-15558373b010",
+        "fields": {
+            "manufacturer": "b1529f3f-34b7-4e96-9707-24d58446644f",
+            "model": "208",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "9bbe6e3a-d062-4188-9315-5bdecf599ce8",
+        "fields": {
+            "manufacturer": "e45cc821-f92c-445b-967a-1680c2655455",
+            "model": "Duster",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "50142da9-f5c0-45dc-b45d-12ab3145b62e",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Gol",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "3c4e7214-3541-4375-8478-651a3a2da963",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Golf",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "48cbf9eb-6e0d-4e6f-bb72-21e6a65359c4",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Jetta",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "dc2dad11-e876-420d-81a5-a6861a0e887e",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "New Spacefox",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "e6f61727-9093-46ee-9730-3d2cc86e6ce0",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Novo Fox",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "c1a38a34-d952-487e-87a2-c85f94a9f5af",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Novo Polo",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "4a72b4e1-febc-47ea-b77c-d3355a9ef01f",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Space Cross",
+            "gear_uuid": {
+
+            }
+        }
+    },
+    {
+        "model": "market.Vehicle",
+        "pk": "f1924a45-3baf-4001-82d3-2acd4488c756",
+        "fields": {
+            "manufacturer": "2b34345d-0411-40b3-b575-eb03be4672a2",
+            "model": "Tiguan",
+            "gear_uuid": {
+
+            }
+        }
+    }
+]

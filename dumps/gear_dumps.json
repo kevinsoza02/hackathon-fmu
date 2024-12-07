@@ -1,0 +1,138 @@
+[
+    {
+        "model": "market.Gear",
+        "pk": "c9aa422f-f39d-43a1-bccd-e3787a25189a",
+        "fields": {
+            "name": "Amortecedor GP32786"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "49f48e79-dcd5-43d3-99e3-0f7ba834cc2a",
+        "fields": {
+            "gear_uuid": "c9aa422f-f39d-43a1-bccd-e3787a25189a",
+            "name": "Amortecedor"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "76010348-d827-4f2d-a3c7-0c02118fd305",
+        "fields": {
+            "gear_uuid": "c9aa422f-f39d-43a1-bccd-e3787a25189a",
+            "name": "Dianteiro Direito"
+        }
+        
+    },
+    {
+        "model": "market.Codes",
+        "pk": "30f19cdf-e0ad-4be0-aa35-397eda91c1bb",
+        "fields": {
+            "gear_uuid": "c9aa422f-f39d-43a1-bccd-e3787a25189a",
+            "name": "GP32786",
+            "code_type": "manufacturer"
+        }
+        
+    },
+    {
+        "model": "market.Gear",
+        "pk": "47b8245e-dbd0-4ccd-8d65-c3299613b7b5",
+        "fields": {
+            "name": "Amortecedor GP32787"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "bec4105a-0758-46b6-bfc7-5a5e917234c6",
+        "fields": {
+            "gear_uuid": "47b8245e-dbd0-4ccd-8d65-c3299613b7b5",
+            "name": "Amortecedor"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "77244039-7b07-4e52-94d5-6d0038d10265",
+        "fields": {
+            "gear_uuid": "47b8245e-dbd0-4ccd-8d65-c3299613b7b5",
+            "name": "Dianteiro Direito"
+        }
+        
+    },
+    {
+        "model": "market.Codes",
+        "pk": "c6476f67-7d36-41ec-bdf4-ac9488670f64",
+        "fields": {
+            "gear_uuid": "47b8245e-dbd0-4ccd-8d65-c3299613b7b5",
+            "name": "GP32787",
+            "code_type": "manufacturer"
+        }
+        
+    },
+    {
+        "model": "market.Gear",
+        "pk": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+        "fields": {
+            "name": "BANDEJAS PARA SUSPENSÃO AUTOMOTIVA BJC01039M"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "7a25ba97-4caa-452d-986f-87c51243d7cb",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "BANDEJAS PARA SUSPENSÃO AUTOMOTIVA"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "1a52fcf6-4b80-4940-8389-a0eb2049157d",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "DIANTEIRA DIREITA / ESQUERDA"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "7461cd91-e496-4aa7-922d-5ebcdf8a6452",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "C/ BUCHA"
+        }
+        
+    },
+    {
+        "model": "market.GearCategories",
+        "pk": "3999cfd8-7374-4b0d-88b0-56f7b064d19b",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "S/ PIVÔ"
+        }
+        
+    },
+    {
+        "model": "market.Codes",
+        "pk": "f6156bd2-aa3b-41d8-ab07-aa3821568c35",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "BJC01039M",
+            "code_type": "manufacturer"
+        }
+        
+    },
+    {
+        "model": "market.Codes",
+        "pk": "f6156bd2-aa3b-41d8-ab07-aa3821568c35",
+        "fields": {
+            "gear_uuid": "4fed77be-5c50-46ce-8bea-acfe97ae63e9",
+            "name": "6Q0407151ED",
+            "code_type": "original"
+        }
+        
+    },
+]

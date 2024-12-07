@@ -1,0 +1,72 @@
+[
+    {
+        "model": "market.manufacturer",
+        "pk": "026aafc8-74d8-4445-97f3-6cb63dc26638",
+        "fields": {
+            "name": "Fiat"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "2b34345d-0411-40b3-b575-eb03be4672a2",
+        "fields": {
+            "name": "Volkswagen"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "3c26cfe4-903a-4578-b3c0-f158d1fdf030",
+        "fields": {
+            "name": "Mercedes-Benz"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "563ea877-bd22-48eb-b4ac-5e198dcc69ae",
+        "fields": {
+            "name": "Citro�n"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "62011b74-4e5a-41bd-8148-0df2d82d4739",
+        "fields": {
+            "name": "Kia Motors"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "83290231-42e4-4af0-804d-b7a5a8673d00",
+        "fields": {
+            "name": "Ford"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "b1529f3f-34b7-4e96-9707-24d58446644f",
+        "fields": {
+            "name": "Peugeot"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "bbc17125-5015-4c63-9b32-3af6c9c1a868",
+        "fields": {
+            "name": "Hyundai"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "dbd27eb5-6089-460c-98b0-f8e2e116218f",
+        "fields": {
+            "name": "GM"
+        }
+    },
+    {
+        "model": "market.manufacturer",
+        "pk": "e45cc821-f92c-445b-967a-1680c2655455",
+        "fields": {
+            "name": "Renault"
+        }
+    }
+]
