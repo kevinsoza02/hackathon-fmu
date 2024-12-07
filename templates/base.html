@@ -1,0 +1,59 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Ache Sua Peça{% endblock %}</title>
+    <!-- CSS -->
+    <script src="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/js/tabler.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/css/tabler.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{% static "css/base.css"%}">
+    {% block extra_css %}{% endblock %}
+</head>
+
+<body class="min-vh-100">
+    <main>
+        <div class="page">
+            <header class="navbar navbar-expand-sm navbar-light d-print-none">
+                <div class="container-xl">
+                    <div class="">
+                        {% include "utils/_header.html" with text="Home" %}
+                        {% include "utils/_header.html" with text="Busca Personalizada" %}
+                    </div>
+
+
+                    <div class="navbar-nav flex-row order-md-last">
+                        <div class="nav-item">
+                            <a href="#" class="nav-link d-flex lh-1 text-reset p-0">
+                                <span class="avatar avatar-sm" style="background-image: url(...)"></span>
+                                <div class="d-none d-xl-block ps-2">
+                                    <div>Paweł Kuna</div>
+                                    <div class="mt-1 small text-secondary">UI Designer</div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="page-wrapper bg-main">
+                <div class="page-body">
+                    <div class="container-xl">
+                        <div class="row row-deck row-cards">
+                            {% include "utils/_breadcrumb.html" %}
+                        </div>
+                        {% block content %}
+                        {% endblock %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    {% block extra_js %}{% endblock %}
+</body>
+
+</html>
